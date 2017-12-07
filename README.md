@@ -2,7 +2,7 @@
 
 ## Changing values of stateless component using stateful component
 
-* See ./stateful/TimeManager
+* See [TimeManager](https://github.com/elitechance/react-tsx-notes/blob/master/src/app/stateful/TimeManager.tsx)
 
 ## Events life cycle
 
@@ -17,12 +17,11 @@
 |                      | componentDidUpdate()          | componentDidUpdate()    | componentDidUpdate()         |
 | componentDidMount()  |                               |                         |                              |
 
-* See ./events/DidMountEvent
 
-## React events
+## React events [example](https://github.com/elitechance/react-tsx-notes/blob/master/src/app/events/DidMountEvent.tsx)
 
-* Visit this [link](https://reactjs.org/docs/events.html)
+* Reference [link](https://reactjs.org/docs/events.html)
 
 ## Passing data between components
 
-* See ./stateful/InputDataManager.tsx
+* See [InputDataManager](https://github.com/elitechance/react-tsx-notes/blob/master/src/app/stateful/InputDataManager.tsx)
